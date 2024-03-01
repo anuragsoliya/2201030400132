@@ -1,0 +1,383 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.mindful-exercise-8eb {
+  box-sizing: border-box;
+  padding: 1.5rem 3.2rem 2.8rem 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(99.27% 99.27% at 50.84% 100%, #3d3d3d 0%, #2f2f2f 0%, #1f1f1f 70.26%, #181818 100%);
+  background-color: #ffffff;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .logo-no-background-1-5CT {
+  margin-right: 21.65rem;
+  width: 12.5rem;
+  height: 12.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .home-o8T {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .home-o8T:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .meditation-guide-6dM {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .meditation-guide-6dM:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .mindful-exercise-DCB {
+  margin: 0rem 8.45rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.mindful-exercise-8eb .auto-group-5e6b-SfH .rectangle-2-hy9{
+  width: 17rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 72.5rem;
+  top: 7.5rem;
+  background-color: #d9d9d9;
+  border-radius: 1.4rem;
+}
+.custom-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.mindful-exercise-8eb .auto-group-5e6b-SfH .relaxation-technique-L1u {
+  margin: 0rem 15.75rem 3.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .relaxation-technique-L1u:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .log-in-qzF {
+  margin: 0rem 3.3rem 3.7rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #fcfbfb;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .log-in-qzF:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.mindful-exercise-8eb .auto-group-5e6b-SfH .auto-group-p9p3-xJB {
+  margin: 2.6rem 0rem 6.3rem 0rem;
+  width: 12.2rem;
+  height: calc(100% - 8.9rem);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #0e0e0e;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #908383;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+
+.mindful-exercise-8eb .auto-group-5e6b-SfH .auto-group-p9p3-xJB:hover {
+  transform: scale(1.1);
+  background-color: #ffffff;
+  color: #0e0e0e;
+  transition: 0.4s;
+}
+.mindful-exercise-8eb .group-85-c7q {
+  margin: 0rem 0.86rem 6.995rem 2.3rem;
+  width: calc(100% - 3.1603rem);
+  height: 66.1047rem;
+  display: flex;
+  column-gap: 4.1603rem;
+  align-items: center;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-79-K2F {
+  width: 47.8397rem;
+  height: 100%;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-79-K2F .iphone-11-pro-max-1-Tu9 {
+  box-sizing: border-box;
+  padding-bottom: 6.5047rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.mindful-exercise-8eb .group-85-c7q .group-79-K2F .iphone-11-pro-max-1-Tu9 .woman-doing-yoga-to-relax-1-bVZ {
+  margin-bottom: 2.7rem;
+  width: 53rem;
+  height: 35.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-79-K2F .iphone-11-pro-max-1-Tu9 .breathing-exercises-WsR {
+  margin: 0rem 3.54rem 3.9rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-79-K2F .iphone-11-pro-max-1-Tu9 .these-focus-on-bringing-attention-to-the-breath-such-as-deep-breathing-box-breathing-or-counting-breaths-pdD {
+  margin-left: 0.0603rem;
+  max-width: 41.1rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3052273664;
+  letter-spacing: 0.20rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-82-nTZ {
+  width: 47.8397rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-82-nTZ .iphone-11-pro-max-1-LV5 {
+  width: 47.8397rem;
+  height: 66.1047rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.mindful-exercise-8eb .group-85-c7q .group-82-nTZ .iphone-11-pro-max-1-LV5 .meditation-1-H9R {
+  width: 53.5rem;
+  height: 35.7rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.mindful-exercise-8eb .group-85-c7q .group-82-nTZ .body-scan-XpT {
+  width: 13.3rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 16.2rem;
+  top: 38rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.mindful-exercise-8eb .group-85-c7q .group-82-nTZ .this-involves-systematically-scanning-the-body-from-head-to-toe-bringing-awareness-to-each-part-and-any-sensations-present-cqu {
+  width: 42rem;
+  height: 14.4rem;
+  position: absolute;
+  text-align: center;
+  left: 2.95rem;
+  top: 43.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3052273664;
+  letter-spacing: 0.20rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+}
+.mindful-exercise-8eb .group-85-c7q .group-83-Fdy {
+  width: 47.8397rem;
+  height: 100%;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-83-Fdy .iphone-11-pro-max-1-Qmm {
+  box-sizing: border-box;
+  padding-bottom: 7.9547rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.mindful-exercise-8eb .group-85-c7q .group-83-Fdy .iphone-11-pro-max-1-Qmm .c57389fea4e2289045438dd8660b44e4cbc8mv2-1-8hm {
+  width: 53.5rem;
+  height: 35.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  margin-bottom: 2.3rem;
+}
+.mindful-exercise-8eb .group-85-c7q .group-83-Fdy .iphone-11-pro-max-1-Qmm .mindful-walking-eAK {
+  margin: 0rem 4.34rem 5.35rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .group-85-c7q .group-83-Fdy .iphone-11-pro-max-1-Qmm .walking-slowly-and-attentively-paying-attention-to-each-step-and-the-sensations-of-movement-YFh {
+  margin-left: 0.0603rem;
+  max-width: 42.3rem;
+  display: flex;
+  margin-top: -1.3rem;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3052273664;
+  letter-spacing: 0.2rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-gfxv-6gX {
+  margin: 0rem 48.9rem 0rem 50.5rem;
+  width: calc(100% - 99.4rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-gfxv-6gX .privacy-policy-p6j {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-gfxv-6gX .terms-and-conditions-jUb {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.mindful-exercise-8eb .auto-group-gfxv-6gX .about-us-s51 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

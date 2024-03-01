@@ -1,0 +1,380 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.login--WEB {
+  box-sizing: border-box;
+  padding: 1.5rem 3.2rem 2.2rem 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(99.27% 99.27% at 50.84% 100%, #3d3d3d 0%, #2f2f2f 0%, #1f1f1f 70.26%, #181818 100%);
+  background-color: #110000;
+}
+.login--WEB .auto-group-vryo-ER5 {
+  margin-bottom: 1rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .logo-no-background-1-ZiF {
+  margin-right: 21.55rem;
+  width: 12.5rem;
+  height: 12.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .home-Vbu {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .home-Vbu:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.login--WEB .auto-group-vryo-ER5 .rectangle-2-hy9{
+  width: 7.5rem;
+  height: 0.3rem;
+  position: absolute;
+    left: 130.5rem;
+  top: 7.5rem;
+  background-color: #d9d9d9;
+  border-radius: 1.4rem;
+}
+.custom-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.login--WEB .auto-group-vryo-ER5 .meditation-guide-CFR {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .meditation-guide-CFR:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.login--WEB .auto-group-vryo-ER5 .mindful-exercise-JJT {
+  margin: 0rem 8.45rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .mindful-exercise-JJT:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.login--WEB .auto-group-vryo-ER5 .relaxation-technique-QMV {
+  margin: 0rem 15.85rem 3.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .relaxation-technique-QMV:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+
+.login--WEB .auto-group-vryo-ER5 .log-in-WfR {
+  margin: 0rem 3.3rem 3.7rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #fcfbfb;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .auto-group-wa3h-RnP {
+  margin: 2.6rem 0rem 6.3rem 0rem;
+  width: 12.2rem;
+  height: calc(100% - 8.9rem);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #0e0e0e;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #908383;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-vryo-ER5 .auto-group-wa3h-RnP:hover {
+  transform: scale(1.1);
+  background-color: #ffffff;
+  color: #0e0e0e;
+  transition: 0.4s;
+}
+.login--WEB .group-79-Hpb {
+  margin: 0rem 5rem 4.6rem 13rem;
+  width: calc(100% - 18rem);
+  height: 71.4rem;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP {
+  box-sizing: border-box;
+  padding: 3.5rem 43.8rem 10.9rem 43.9rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .login-XU3 {
+  margin: 0rem 0.1rem 2.9rem 0rem;
+  text-align: center;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.3052273989;
+  letter-spacing: 0.192rem;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw {
+  margin: 0rem 19.104rem 1.829rem 19.1rem;
+  width: calc(100% - 38.2038rem);
+  height: 3.8708rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-iwmh-ja7 {
+  margin-right: 0.3871rem;
+  width: 7.2899rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-iwmh-ja7 .ellipse-3-UXh {
+  width: 3.4192rem;
+  height: 3.4192rem;
+  position: absolute;
+  left: 3.8708rem;
+  top: 0.1935rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7096rem;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-iwmh-ja7 .ellipse-2-h35 {
+  width: 3.4192rem;
+  height: 3.4192rem;
+  position: absolute;
+  left: 0.1936rem;
+  top: 0.2581rem;
+  background-color: #d9d9d9;
+  border-radius: 1.7096rem;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-iwmh-ja7 .google-1-RUs {
+  width: 3.8708rem;
+  height: 3.8708rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-iwmh-ja7 .meta-2-AhM {
+  width: 2.3225rem;
+  height: 1.5483rem;
+  position: absolute;
+  left: 4.4514rem;
+  top: 1.1612rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-ygpz-JHm {
+  margin: 0.194rem 0rem 0.258rem 0rem;
+  box-sizing: border-box;
+  padding: 0.129rem 0.387rem 0.129rem 0.452rem;
+  height: calc(100% - 0.4516rem);
+  background-color: #d9d9d9;
+  border-radius: 1.7096rem;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .group-87-pxw .auto-group-ygpz-JHm .apple-1-okK {
+  width: 2.5805rem;
+  height: 3.1611rem;
+  position: relative;
+  background-size: 294.343% 179.31%;
+  background-position: -2.4657rem -1.3335rem;
+  background-image: url('../assets/apple-1.png');
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .auto-group-wvwy-h51 {
+  margin: 0rem 14rem 2.7rem 18.65rem;
+  width: calc(100% - 32.65rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .auto-group-wvwy-h51 .email-address-RWo {
+  margin-right: 0.35rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3052273856;
+  letter-spacing: 0.054rem;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .auto-group-wvwy-h51 .entypo-social-facebook-with-circle-k3H {
+  margin-top: 1.7rem;
+  width: 4.4rem;
+  height: 4.4rem;
+  overflow: hidden;
+  position: relative;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .line-1-4Zm {
+  margin-bottom: 5.1rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .password-DBm {
+  margin: 0rem 0.1rem 7.4rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3052273856;
+  letter-spacing: 0.054rem;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .line-2-i8X {
+  margin-bottom: 10.5rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .auto-group-j4oh-e2B {
+  margin: 0rem 14.2rem 0rem 14rem;
+  width: calc(100% - 28.2rem);
+  height: 5.6rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #BB7249;
+  flex-shrink: 0;
+}
+
+.login--WEB .group-79-Hpb .iphone-11-pro-max-1-2GP .auto-group-j4oh-e2B:hover{
+  background-color: #ffffff;
+  color: #0e0e0e;
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.login--WEB .auto-group-luab-BAX {
+  margin: 0rem 45.6rem 0rem 53.8rem;
+  width: calc(100% - 99.4rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-luab-BAX .privacy-policy-6YP {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-luab-BAX .terms-and-conditions-1QT {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login--WEB .auto-group-luab-BAX .about-us-w3D {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,405 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.meditation-guide-Jfh {
+  box-sizing: border-box;
+  padding: 1.5rem 3.2rem 1.5rem 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(99.27% 99.27% at 50.84% 100%, #3d3d3d 0%, #2f2f2f 0%, #1f1f1f 70.26%, #181818 100%);
+  background-color: #ffffff;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q {
+  margin-bottom: 3.3rem;
+  width: 100%;
+  height: 12.6rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .logo-no-background-1-Z5q {
+  margin-right: 22.75rem;
+  width: 12.5rem;
+  height: 12.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .home-gAT {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .home-gAT:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .meditation-guide-BN7 {
+  margin: 0rem 8.5rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .mindful-exercise-gpf {
+  margin: 0rem 8.45rem 3.7rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .mindful-exercise-gpf:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+
+.meditation-guide-Jfh .auto-group-7hdh-q9q .rectangle-2-hy9{
+  width: 17.5rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 50rem;
+  top: 7.5rem;
+  background-color: #d9d9d9;
+  border-radius: 1.4rem;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .relaxation-technique-Pj5 {
+  margin: 0rem 14.65rem 3.5rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .relaxation-technique-Pj5:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .log-in-WHu {
+  margin: 0rem 3.3rem 3.7rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #fcfbfb;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .log-in-WHu:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .auto-group-l1p5-1Ef {
+  margin: 2.6rem 0rem 6.3rem 0rem;
+  width: 12.2rem;
+  height: calc(100% - 8.9rem);
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #0e0e0e;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #908383;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-7hdh-q9q .auto-group-l1p5-1Ef:hover {
+  background-color: #ffffff;
+  color: #0e0e0e;
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.meditation-guide-Jfh .group-85-sXm {
+  margin: 0rem 0.86rem 8.295rem 2.3rem;
+  width: calc(100% - 3.1603rem);
+  height: 66.1047rem;
+  display: flex;
+  column-gap: 4.1603rem;
+  align-items: center;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK {
+  width: 47.8397rem;
+  height: 100%;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP {
+  box-sizing: border-box;
+  padding-bottom: 7.9547rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .light-peach-and-jade-green-light-floral-save-the-date-wedding-website-3-1-Gpo {
+  margin-bottom: 3.2rem;
+  width: 61.7rem;
+  height: 34.8rem;
+  object-fit: fill;
+  object-position: 4rem;
+  vertical-align: top;
+  flex-shrink: 5;
+}
+
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .light-peach-and-jade-green-light-floral-save-the-date-wedding-website-3-1-Gpo:hover{
+  transform: scale(1.1,1.1);
+  transition: 0.5s;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .mindfulness-meditation-yjD {
+  margin: 0rem 2rem 5.35rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .mindfulness-meditation-yjD:hover{
+  transform: scale(1.1,1.1);
+  text-decoration: underline;
+  transition: 0.5s;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .focuses-on-being-present-in-the-moment-and-observing-thoughts-and-sensations-without-judgment-UR5 {
+  margin-left: 0.0603rem;
+  max-width: 40.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3052273664;
+  letter-spacing: 0.20rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-79-NzK .iphone-11-pro-max-1-9EP .focuses-on-being-present-in-the-moment-and-observing-thoughts-and-sensations-without-judgment-UR5:hover {
+  transform: scale(1.1,1.1);
+  transition: 0.5s;
+}
+.meditation-guide-Jfh .group-85-sXm .group-82-q99 {
+  width: 47.8397rem;
+  height: 100%;
+  position: relative;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-82-q99 .iphone-11-pro-max-1-z23 {
+  width: 47.8397rem;
+  height: 66.1047rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  box-sizing: border-box;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.meditation-guide-Jfh .group-85-sXm .group-82-q99 .iphone-11-pro-max-1-z23 .e10127f80270bd49c236fout-0-1-Ka7 {
+  margin-bottom: 3.2rem;
+  width: 70rem;
+  height: 34.8rem;
+  object-fit: fill;
+  object-position: -20.75rem;
+  vertical-align: top;
+  flex-shrink: 5;
+}
+.meditation-guide-Jfh .group-85-sXm .group-82-q99 .transcendental-meditation-wrP {
+  width: 36.5rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 5rem;
+  top: 38rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+}
+
+.meditation-guide-Jfh .group-85-sXm .group-82-q99 .involves-the-use-of-a-mantra-to-achieve-a-state-of-relaxed-awareness-2sq {
+  width: 40.8rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 2.9rem;
+  top: 47rem;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  line-height: 1.3052273664;
+  letter-spacing: 0.20rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+}
+
+.meditation-guide-Jfh .group-85-sXm .group-83-H35 {
+  width: 47.8397rem;
+  height: 100%;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-83-H35 .iphone-11-pro-max-1-dMq {
+  box-sizing: border-box;
+  padding-bottom: 7.9547rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  box-shadow: inset -0.5rem -0.5rem 25rem rgba(255, 255, 255, 0.0199999996);
+  backdrop-filter: blur(2.1rem);
+  background: radial-gradient(100% 100% at 0% 0%, rgba(255, 255, 255, 0.400000006) 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 5rem;
+}
+.meditation-guide-Jfh .group-85-sXm .group-83-H35 .iphone-11-pro-max-1-dMq .how-to-practice-loving-kindness-meditation-740-1-YUo {
+  margin-bottom: 3.2rem;
+  width: 70.5rem;
+  height: 35.3rem;
+  margin-left: 10rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .group-85-sXm .group-83-H35 .iphone-11-pro-max-1-dMq .loving-kindness-meditation-6ud {
+  margin: 0rem 5rem 5.35rem 0rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.305227356;
+  letter-spacing: 0.075rem;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Phetsarath, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.custom-link {
+  color: inherit;
+  text-decoration: none;
+}
+.meditation-guide-Jfh .group-85-sXm .group-83-H35 .iphone-11-pro-max-1-dMq .focuses-on-cultivating-feelings-of-love-compassion-and-goodwill-towards-oneself-and-others-b5h {
+  width: 100%;
+  max-width: 41.5rem;
+  display: flex;
+  margin-right: 2.5rem;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.3052273664;
+  letter-spacing: 0.20rem;
+  text-transform: capitalize;
+  color: #ffffff;
+  font-family: PT Serif, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-bvf9-AY7 {
+  margin: 0rem 48.9rem 0rem 50.5rem;
+  width: calc(100% - 99.4rem);
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-bvf9-AY7 .privacy-policy-sSX {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-bvf9-AY7 .terms-and-conditions-abq {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.meditation-guide-Jfh .auto-group-bvf9-AY7 .about-us-WEb {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+

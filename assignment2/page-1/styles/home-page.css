@@ -1,0 +1,302 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.home-page-seF {
+  box-sizing: border-box;
+  padding: 1.5rem 3.2rem 2.5rem 1.8rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  background: radial-gradient(99.27% 99.27% at 50.84% 100%, #3d3d3d 0%, #2f2f2f 0%, #1f1f1f 70.26%, #181818 100%);
+  background-color: #110000;
+}
+.home-page-seF .logo-no-background-1-Q8P {
+  margin-right: 4.9rem;
+  width: 12.5rem;
+  height: 12.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-brdd-8KH {
+  margin: 2.6rem 3.8rem 0rem 0rem;
+  width: 74.7rem;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR {
+  margin: 0rem 0rem 30.2rem 16.75rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .home-z6b {
+  margin-right: 8.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .rectangle-2-hy9 {
+  width: 7.8rem;
+  height: 0.3rem;
+  position: absolute;
+  left: 34.8rem;
+  top: 7rem;
+  background-color: #d9d9d9;
+  border-radius: 1.4rem;
+}
+
+.custom-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .meditation-guide-HLb {
+  margin-right: 8.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .meditation-guide-HLb:hover{
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .mindful-exercise-Qg7 {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-uvsy-eoR .mindful-exercise-Qg7:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.home-page-seF .auto-group-brdd-8KH .achieve-results-with-meditation-LZm {
+  margin-bottom: 11.5rem;
+  max-width: 52.1rem;
+  font-size: 5.3rem;
+  font-weight: 400;
+  line-height: 1.465227379;
+  letter-spacing: 0.6625rem;
+  color: #ffffff;
+  font-family: Merriweather, 'Source Sans Pro';
+}
+.home-page-seF .auto-group-brdd-8KH .know-more-about-traditional-indian-historic-spiritual-practices-e4f {
+  margin-bottom: 4.6rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-ctd1-9n7 {
+  margin-bottom: 13.8rem;
+  width: 21.1rem;
+  height: 5.6rem;
+  position: relative;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-ctd1-9n7 .get-peace-hHq {
+  width: 21.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: #BB7249;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-ctd1-9n7 .get-peace-hHq:hover{
+  background-color: #ffffff; 
+    color: #000000; 
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-ctd1-9n7 .rectangle-1-CEb {
+  width: 21.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 4.4rem;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-rcko-vgP {
+  margin-left: 33rem;
+  width: calc(100% - 33rem);
+  display: flex;
+  align-items: center;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-rcko-vgP .privacy-policy-GET {
+  margin-right: 4.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-brdd-8KH .auto-group-rcko-vgP .terms-and-conditions-b1q {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-13r7-icF {
+  margin-top: 2.6rem;
+  width: 59.1rem;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 {
+  margin: 0rem 0rem 6rem 3.25rem;
+  width: calc(100% - 3.25rem);
+  height: 3.7rem;
+  display: flex;
+  align-items: center;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-5gty-Az3 {
+  box-sizing: border-box;
+  padding: 0.1rem 3.3rem 0.1rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-5gty-Az3 .relaxation-technique-W2K {
+  margin: 0rem 15.75rem 0.8rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-5gty-Az3 .relaxation-technique-W2K:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-5gty-Az3 .log-in-pYo {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #fcfbfb;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-5gty-Az3 .log-in-pYo:hover {
+  transform: scale(1.1);
+  transition: 0.4s;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-9k2w-A6s {
+  width: 12.2rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #0e0e0e;
+  font-family: Merge One, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #908383;
+  border-radius: 4.5rem;
+  flex-shrink: 0;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-dn7h-T43 .auto-group-9k2w-A6s:hover {
+ background-color: #ffffff;
+ color: #000000;
+ transform: scale(1.1);
+ transition: 0.4s;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-uazt-1Wo {
+  margin-bottom: 13.3rem;
+  width: 52.9rem;
+  height: 63.7rem;
+  position: relative;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-uazt-1Wo .shadow-Ymd {
+  width: 52.9rem;
+  height: 8.7rem;
+  position: absolute;
+  left: 0;
+  top: 51.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.home-page-seF .auto-group-13r7-icF .auto-group-uazt-1Wo .yoga0-1-5mZ {
+  width: 50.1rem;
+  height: 63.7rem;
+  position: absolute;
+  left: 0.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.home-page-seF .auto-group-13r7-icF .about-us-R4j {
+  margin-left: 1.1rem;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.305227375;
+  letter-spacing: 0.06rem;
+  color: #ffffff;
+  font-family: Maven Pro, 'Source Sans Pro';
+  white-space: nowrap;
+}
